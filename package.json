@@ -1,0 +1,23 @@
+{
+  "name": "@kessler/json",
+  "version": "1.0.0",
+  "description": "personal json util stuff thinggies",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "npx ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kessler/node-json.git"
+  },
+  "keywords": [
+    "json",
+    "util"
+  ],
+  "author": "Yaniv Kessler",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kessler/node-json/issues"
+  },
+  "homepage": "https://github.com/kessler/node-json#readme"
+}
